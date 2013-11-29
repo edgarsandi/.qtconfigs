@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 2.8.1, 2013-11-29T00:21:49. -->
+<qtcreator>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">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</value>
+ </data>
+ <data>
+  <variable>OpenEditors</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/deployer/studies/functions_object/functions_object.pro</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/deployer/studies/functions_object/functions_object.pro</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-DebuggerToolTips</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>value-DefaultFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">session</value>
+   <value type="QString">/home/deployer/studies/functions_object/functions_object.pro</value>
+   <value type="QString">/home/deployer/studies/functions_object/functions_object.pro</value>
+   <value type="QString">/home/deployer/studies/functions_object</value>
+   <value type="QString">/home/deployer/studies/functions_object</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-Watchers</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">DebuggerToolTips</value>
+   <value type="QString">DefaultFormats</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">Watchers</value>
+  </valuelist>
+ </data>
+</qtcreator>
